@@ -1,4 +1,4 @@
-### BULLYNG IN WORD 
+### OLHOS ILUSÓRIOS
 
 #
 
@@ -42,7 +42,46 @@ Pois seus olhos foram vendados pela maldade.
 
 #
 
-Era uma vez, mais uma, das milhares
+Era uma vez, mais uma vez.
+
+A, suja, sociedade 
+
+Retirou mais uma liberdade.
+
+Uma pequena criança, tão fofa...
+
+Mas já perdeu a esperança.
+
+Graças aos infratores, que trouxeram todas suas dores.
+
+#
+
+Devemos agir, não podemos deixá-los nossas crianças coagir.
+
+Um ato tão deselegante, que se instala na mente e vira amante
+
+Dos mais sonhadores, retirando tudo de bom deixando só as dores, 
+
+Um passado triste e um amor que já não existe. 
+
+#
+
+Um ponto escrito "final" eu queria colocar, 
+
+Nessa história, que temos tanto para falar.
+
+Mas com certeza, esse BULLYNG que tanto comentamos, 
+
+Ainda vai nos tirar tudo o que amamos
+
+Pois ele tem muito a relatar 
+
+Ja que tem uma grande história a trilhar. 
 
 
+#
+
+Como uma vitima, antes de autora, tenho que pensar toda hora...
+
+Quando um ponto nisso vamos colocar e deixá-lo ir embora?
 
