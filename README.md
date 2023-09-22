@@ -85,3 +85,4 @@ Como uma vitima, antes de autora, tenho que pensar toda hora...
 
 Quando um ponto nisso vamos colocar e deixá-lo ir embora?
 
+![](
