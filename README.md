@@ -85,4 +85,10 @@ Como uma vitima, antes de autora, tenho que pensar toda hora...
 
 Quando um ponto nisso vamos colocar e deixá-lo ir embora?
 
-![](
+#
+
+![6e7186eadbc386508d43495c7bcc1113](https://github.com/Yuking06/Yuking06/assets/104855218/f9ace830-5136-466b-8209-1c5d4b2dab52)
+
+#
+
+
