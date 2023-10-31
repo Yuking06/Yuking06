@@ -10,3 +10,10 @@
    Na aula de hoje, ela fez uma alteração no código usando " onclick" que ocasionou que ao apertar alguma tecla de som, aparece uma mensagem explicando qual som é aquele. 
    Após isso, em outra aula, ela explica que a forma que colocamos o código não é muito adequada, por dificultar nossa vida, pois se precisassemos modificar uma tag, iriamos ter que modificar uma a uma, e poderia trazer algum problema. 
   Ela nos auxilia a criar uma nova pasta "mein.js"
+
+31/out/2023
+ Na aula de hoje ela ensinou como colocar um botâo do HTML dentro d JAvasCrip usando o "DevTools".
+ Ela deu a informação de que na aba "Elemnets" ou "Elementos" contém todos os nossos elementos HTML do "index.html"
+ Para dar um visual a esse botão, precisamos criar uma classe
+Ela mostrou como usar uma aba de buscas para códigos. "document. queirySelect ('tecla_pom')".
+
