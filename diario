@@ -17,3 +17,14 @@
  Para dar um visual a esse botão, precisamos criar uma classe
 Ela mostrou como usar uma aba de buscas para códigos. "document. queirySelect ('tecla_pom')".
 
+08/nov/2023
+ Nesta aula ela ensinou e explicou a função do PLAY, no JS. Mostrou como ativalo e os possíveis erros que podem aparecer, a ordem dos blocos e como localizá-los. 
+ No segundo video do módulo 2, criamos uma função, ela mostrou as maneiras de encontrar os erros do código, onde dá pra ver exatamente onde está o erro. Mostrou formas de mudar a fonte do código. 
+ (MÓDULO 3) 
+Vimos oque são comentários de código e como utilizá-los "queySelectorAll", ela explicou oque eram e pra que servem referencia. Mostrou as estruturas de uma lista e seus índices. 
+(MÓDULO 4) 
+Ela explicou e mostrou como deve ser percorrido uma lista com estruturas de repetição "while", falou sobre as funçoes com parâmetros dentro da função criada, usamos "template string " para textos, e vimos a repetiçao "for" que deixou um trabalho mais limpo
+
+No módulo cinco, ela ensinoou alguns eventos do teclado (onkeydown e onkeyup), falou sobre o "event" e não deu tempo de ver mais conteúdos. Está foi, oficialmente, a ultima aula na informática. 
+
+Não consegui terminar o projeto, e tive que fazer correndo esses ultimos módulos. Não especifiquei as aulas, mas sim os conteúdos. 
